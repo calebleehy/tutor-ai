@@ -1,0 +1,4 @@
+json>=2.0.1; python_version >= '3.12'
+time>=0.0.1; python_version >= '3.12'
+requests>=2.31.0
+typing>=3.7.4.3; python_version >= '3.12'
